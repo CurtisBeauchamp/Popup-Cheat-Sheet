@@ -1,4 +1,6 @@
-    A simple Tkinter based python script that will display a cheat sheet for keybindings, commands Etc. Display will close after any keypress.
+    A simple Tkinter based python script that will display a cheat sheet for keybindings, commands Etc. 
+    
+    Display will close after any keypress.
 
     1. Bind a key in your OS settings to run the script: python3 /<path>/Popup-Cheat-Sheet.py
 
